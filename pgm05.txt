@@ -1,2 +1,6 @@
 edit 1
+HEAD
 program 5
+
+edit 2
+ cad8b41 (save local changes to pgm05.txt)
